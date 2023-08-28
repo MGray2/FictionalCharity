@@ -48,6 +48,7 @@
     
 }
 .donate_button {
+    margin-top: 50px;
     background-color: lightcoral;
     border: 2px;
     border-style: dotted;
@@ -60,7 +61,10 @@
     
 }
 .donate_button:hover {
-    background-color: red;
+    background-color: darkred;
     color: white;
     cursor: pointer;
+}
+.text2 {
+    font-style: italic;
 }
