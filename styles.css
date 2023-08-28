@@ -1,0 +1,66 @@
+.main_header {
+    text-align: center;
+    color:darkred;
+}
+.about_us {
+    margin-top: 200px;
+}
+.body {
+    background-color: lightgreen;
+    
+}
+.paragraph1 {
+    margin-top: 75px;
+    margin-left: 150px;
+    margin-right: 200px;
+    font-size: 13pt;
+}
+.paragraph2 {
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-bottom: 75px;
+    font-size: 13pt;
+}
+.image1 {
+    margin-left: 80px;
+    width: 300px;
+    height: 250px;
+    border-style: outset;
+    border-width: 3px;
+}
+.image2 {
+    margin-left: 80px;
+    width: 300px;
+    height: 250px;
+    border-style: inset;
+    border-width: 3px;
+}
+.image3 {
+    margin-left: 80px;
+    width: 300px;
+    height: 250px;
+    border-style: outset;
+    border-width: 3px;
+}
+.text1 {
+    text-align: center;
+    color: purple;
+    
+}
+.donate_button {
+    background-color: lightcoral;
+    border: 2px;
+    border-style: dotted;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16pt;
+    
+}
+.donate_button:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
